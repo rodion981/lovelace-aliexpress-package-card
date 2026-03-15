@@ -13,5 +13,6 @@
   { "code": "cs", "name": "Čeština" },
   { "code": "ru", "name": "Русский" },
   { "code": "lt", "name": "Lietuviškai" },
+  { "code": "ua", "name": "Ukrainian" },
   {"code": "pl", "name": "Polski" }
 ]
